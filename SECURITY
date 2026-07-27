@@ -1,0 +1,49 @@
+# Security Policy
+
+## Reporting Security Issues
+
+This repository is primarily an educational documentation project and does not provide executable software intended for production environments.
+
+If you discover:
+
+* incorrect medical information that may present a safety concern;
+* inaccurate physiological explanations;
+* misleading educational content;
+* copyright issues;
+* other significant problems,
+
+please open a GitHub Issue or contact the repository maintainer.
+
+---
+
+## Responsible Disclosure
+
+Please report potential issues responsibly and provide enough information to reproduce or understand the concern.
+
+Constructive feedback is appreciated and helps improve the quality of this educational resource.
+
+---
+
+## Scope
+
+This Security Policy applies to:
+
+* repository documentation;
+* diagrams;
+* educational content;
+* references;
+* future source code associated with this project.
+
+---
+
+## Disclaimer
+
+This repository is intended solely for educational purposes and must not be used as a substitute for professional medical advice, diagnosis, or treatment.
+
+---
+
+## Maintainer
+
+**Srećko Jovančević**
+
+GitHub: https://github.com/sreckojovancevic
