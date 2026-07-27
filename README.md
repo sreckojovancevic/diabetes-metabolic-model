@@ -137,4 +137,4 @@ See the **LICENSE** file for details.
 
 **Srećko Jovančević**
 
-GitHub: *(add your GitHub profile here)*
+GitHub: https://github.com/sreckojovancevic/
