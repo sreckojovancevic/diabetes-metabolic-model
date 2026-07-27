@@ -1,18 +1,67 @@
 # Medical Disclaimer
 
-This repository is intended solely for educational and informational purposes.
+## Educational Purpose
 
-The metabolic model presented here reflects the author's personal experience living with diabetes together with publicly available physiological knowledge.
+The **Diabetes Metabolic Model** is an educational project created to improve the understanding of physiological processes associated with diabetes mellitus.
 
-It is NOT intended to:
+The information presented in this repository is intended solely for educational and informational purposes.
 
-- diagnose disease;
-- recommend treatment;
-- replace professional medical advice;
-- replace consultation with an endocrinologist or physician.
+It should not be interpreted as medical advice, clinical guidance, or a recommendation for diagnosis or treatment.
 
-Every patient is unique.
+---
 
-Any medical decision should be made only after consultation with a qualified healthcare professional.
+## No Medical Advice
 
-If you have diabetes or suspect you may have diabetes, consult your physician before making any change to your therapy, nutrition, or lifestyle.
+This project does **not** replace:
+
+* consultation with an endocrinologist;
+* consultation with a physician;
+* individualized medical treatment;
+* professional nutritional counseling;
+* clinical decision-making.
+
+Every person living with diabetes has unique medical needs, and treatment should always be determined by qualified healthcare professionals.
+
+---
+
+## Personal Experience
+
+Parts of this model have been inspired by the author's personal experience living with diabetes, together with publicly available physiological knowledge and generally accepted medical concepts.
+
+Personal experiences should not be considered universally applicable to all patients.
+
+---
+
+## Limitation of Liability
+
+The author makes no warranty regarding the completeness, accuracy, or applicability of the information contained in this repository.
+
+The author shall not be held liable for any direct or indirect consequences arising from the use or interpretation of this material.
+
+Users assume full responsibility for any actions taken based on the information provided.
+
+---
+
+## Recommendation
+
+If you have diabetes or suspect that you may have diabetes, consult your physician or endocrinologist before making any changes to:
+
+* medication;
+* insulin therapy;
+* diet;
+* physical activity;
+* lifestyle.
+
+---
+
+## Scientific Development
+
+Medical science evolves continuously.
+
+The information presented in this repository may become outdated as new scientific evidence emerges.
+
+Users are encouraged to consult current clinical guidelines and peer-reviewed medical literature.
+
+---
+
+**© 2026 Srećko Jovančević**
