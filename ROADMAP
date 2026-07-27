@@ -1,0 +1,88 @@
+# Roadmap
+
+## Vision
+
+The goal of the **Diabetes Metabolic Model** is to evolve into a comprehensive, open educational resource that explains diabetes through a systems-oriented approach.
+
+---
+
+# Version 1.x
+
+## Documentation
+
+* ✅ Initial project documentation
+* ✅ Educational metabolic model
+* ✅ ASCII system diagram
+* ✅ Medical disclaimer
+* ✅ Open-source licensing
+* ✅ Community contribution guidelines
+
+---
+
+# Version 2.x
+
+## Visualization
+
+* Interactive SVG diagrams
+* Mermaid diagrams
+* High-resolution PNG illustrations
+* Printable PDF version
+* Color-coded physiological pathways
+
+---
+
+## Physiology
+
+Expand the model with:
+
+* Pancreas
+* Skeletal muscle
+* Adipose tissue
+* Kidneys
+* Digestive system
+* Hormonal regulation
+* Glucagon
+* GLP-1
+* Incretin response
+
+---
+
+# Version 3.x
+
+## Educational Resources
+
+* Interactive learning materials
+* Frequently Asked Questions (FAQ)
+* Glossary of medical terms
+* Clinical terminology explanations
+* Educational case examples
+
+---
+
+# Version 4.x
+
+## Internationalization
+
+* Serbian documentation
+* English documentation
+* Additional language translations
+* Multilingual diagrams
+
+---
+
+# Future Ideas
+
+* Interactive web application
+* Educational animations
+* Systems biology diagrams
+* Community-reviewed educational content
+* Scientific reference mapping
+* Open educational presentations
+
+---
+
+## Community
+
+Suggestions for future improvements are welcome through GitHub Issues and Pull Requests.
+
+This roadmap is intended to guide the long-term development of the project and may evolve over time.
