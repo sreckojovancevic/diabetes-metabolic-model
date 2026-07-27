@@ -127,9 +127,13 @@ The purpose of this repository is to help others better understand these relatio
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license.
+© 2026 Srećko Jovančević
 
-See the **LICENSE** file for details.
+This work is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license.
+
+For details see the **LICENSE** file or visit:
+
+https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
