@@ -1,0 +1,82 @@
+# Frequently Asked Questions (FAQ)
+
+## What is the purpose of this project?
+
+The **Diabetes Metabolic Model** is an open educational project designed to help explain the physiological interactions involved in diabetes mellitus through a systems-oriented approach.
+
+---
+
+## Is this a medical guideline?
+
+No.
+
+This repository is intended exclusively for educational purposes and must not be interpreted as medical advice, a clinical guideline, or a therapeutic recommendation.
+
+---
+
+## Can this model be used for diagnosis?
+
+No.
+
+The model is intended to improve understanding of physiological concepts and is not designed for diagnosing or treating any medical condition.
+
+---
+
+## Is the model scientifically validated?
+
+The project is based on established physiological principles, publicly available educational resources, and the author's personal experience living with diabetes.
+
+It is an educational model rather than a validated clinical or scientific model.
+
+---
+
+## Why is anxiety included?
+
+Anxiety and psychological stress can influence the physiological stress response by increasing hormones such as cortisol and adrenaline.
+
+These hormones may affect glucose regulation and insulin effectiveness.
+
+Their inclusion is intended to illustrate these physiological relationships in an educational context.
+
+---
+
+## Why is the liver included?
+
+The liver plays a central role in maintaining blood glucose through processes such as glycogen storage, glycogen breakdown, and gluconeogenesis.
+
+Understanding liver physiology is essential for understanding diabetes.
+
+---
+
+## Why are cardiovascular medications shown?
+
+Many people living with diabetes also receive treatment for cardiovascular conditions.
+
+The model illustrates these therapies only to show their relationship within the broader physiological system.
+
+It does **not** recommend any medication.
+
+---
+
+## Can I contribute?
+
+Yes.
+
+Contributions are welcome through GitHub Issues and Pull Requests.
+
+Please ensure that contributions are respectful, evidence-based, and consistent with the educational purpose of the project.
+
+---
+
+## Which license applies?
+
+This repository is distributed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** license unless otherwise noted.
+
+---
+
+## Who is the author?
+
+**Srećko Jovančević**
+
+GitHub:
+https://github.com/sreckojovancevic
