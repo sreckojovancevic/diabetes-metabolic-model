@@ -1,22 +1,48 @@
 # Contributing
 
-Contributions are welcome.
+Thank you for your interest in contributing to the **Diabetes Metabolic Model**.
 
-If you are:
+This repository welcomes constructive contributions from:
 
-- an endocrinologist
-- physician
-- psychologist
-- nutritionist
-- researcher
-- person living with diabetes
+* endocrinologists;
+* physicians;
+* diabetologists;
+* psychologists;
+* nutritionists;
+* researchers;
+* educators;
+* software developers;
+* people living with diabetes.
 
-you are invited to contribute improvements.
+## Goals
 
-Please keep contributions:
+Contributions should aim to:
 
-- evidence based
-- respectful
-- educational
+* improve scientific accuracy;
+* improve educational clarity;
+* correct factual errors;
+* enhance diagrams and visualizations;
+* expand references to publicly available literature.
 
-This repository is intended as an educational project.
+## Guidelines
+
+Please ensure that contributions:
+
+* are respectful and constructive;
+* are supported by scientific evidence whenever possible;
+* maintain the educational purpose of the project;
+* do not provide individualized medical advice.
+
+## Pull Requests
+
+Before submitting a pull request, please verify that:
+
+* information is technically accurate;
+* sources are cited when appropriate;
+* changes are clearly described.
+
+## Discussions
+
+Questions, ideas, and constructive criticism are always welcome through GitHub Issues and Discussions.
+
+Thank you for helping make this educational resource better.
