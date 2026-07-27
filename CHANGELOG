@@ -1,0 +1,41 @@
+# CHANGELOG
+
+All notable changes to this project will be documented in this file.
+
+The format is based on **Keep a Changelog** and follows **Semantic Versioning (SemVer)** where applicable.
+
+---
+
+## [1.0.0] - 2026-07-27
+
+### Added
+
+* Initial release of the **Diabetes Metabolic Model**
+* Educational systems-oriented metabolic model
+* ASCII metabolic diagram
+* Explanatory documentation
+* Medical disclaimer
+* Open-source documentation
+* CC BY-SA 4.0 licensing
+* Contribution guidelines
+* Code of Conduct
+* Project structure for future development
+
+### Notes
+
+This is the first public release of the project intended for educational purposes and community collaboration.
+
+---
+
+## Future Releases
+
+Future versions may include:
+
+* Graphical diagrams (SVG and PNG)
+* Mermaid diagrams
+* Additional physiological pathways
+* References to scientific literature
+* Multilingual documentation
+* Educational examples
+* Improved visualizations
+* Community contributions
