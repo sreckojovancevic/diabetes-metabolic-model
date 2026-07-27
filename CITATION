@@ -1,0 +1,43 @@
+# CITATION
+
+If you use this project in academic work, educational material, presentations, articles, or derivative works, please cite it appropriately.
+
+## Suggested Citation (APA)
+
+Jovančević, S. (2026). *Diabetes Metabolic Model* (Version 1.0). GitHub. https://github.com/sreckojovancevic/diabetes-metabolic-model
+
+---
+
+## Suggested Citation (BibTeX)
+
+```bibtex
+@misc{jovancevic2026diabetes,
+  author       = {Srećko Jovančević},
+  title        = {Diabetes Metabolic Model},
+  year         = {2026},
+  publisher    = {GitHub},
+  howpublished = {\url{https://github.com/sreckojovancevic/diabetes-metabolic-model}},
+  note         = {Educational metabolic model}
+}
+```
+
+---
+
+## Attribution
+
+If you adapt, translate, or build upon this work, please provide attribution to the original author and include a reference to the original repository.
+
+Suggested attribution:
+
+> Based on the original work *Diabetes Metabolic Model* by Srećko Jovančević.
+
+---
+
+## Contact
+
+GitHub:
+https://github.com/sreckojovancevic
+
+---
+
+Thank you for citing this work and helping support open educational resources.
